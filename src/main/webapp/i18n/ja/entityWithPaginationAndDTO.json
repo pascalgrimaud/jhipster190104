@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "EntityWithPaginationAndDTOS",
+                "createLabel": "Entity With Pagination And DTO を追加",
+                "createOrEditLabel": "Entity With Pagination And DTOを追加または編集"
+            },
+            "created": "A new Entity With Pagination And DTO is created with identifier {{ param }}",
+            "updated": "A Entity With Pagination And DTO is updated with identifier {{ param }}",
+            "deleted": "A Entity With Pagination And DTO is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Entity With Pagination And DTO {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

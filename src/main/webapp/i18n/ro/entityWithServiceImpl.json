@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Creeare o nouă entitate Entity With Service Impl",
+                "createOrEditLabel": "Creeare sau editare Entity With Service Impl"
+            },
+            "created": "A fost creată o nouă entitate Entity With Service Impl cu identificatorul {{ param }}",
+            "updated": "Entity With Service Impl cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Service Impl cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Service Impl {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

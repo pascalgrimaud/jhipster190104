@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "EntityWithPaginations",
+                "createLabel": "Egy új Entity With Pagination létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Paginationt"
+            },
+            "created": "Egy új Entity With Pagination lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Pagination módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Pagination törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Paginationt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

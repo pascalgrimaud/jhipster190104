@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "Buat Entity With Service Class And DTO baru",
+                "createOrEditLabel": "Buat atau edit Entity With Service Class And DTO"
+            },
+            "created": "Entity With Service Class And DTO dengan id {{ param }} telah dibuat",
+            "updated": "Entity With Service Class And DTO dengan id {{ param }} telah diperbaharui",
+            "deleted": "Entity With Service Class And DTO dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Entity With Service Class And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

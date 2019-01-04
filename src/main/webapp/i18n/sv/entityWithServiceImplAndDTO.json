@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl And DTOS",
+                "createLabel": "Skapa en ny Entity With Service Impl And DTO",
+                "createOrEditLabel": "Skapa eller ändra en Entity With Service Impl And DTO"
+            },
+            "created": "En ny Entity With Service Impl And DTO är skapad med id {{ param }}",
+            "updated": "En Entity With Service Impl And DTO är uppdaterad med id  {{ param }}",
+            "deleted": "En Entity With Service Impl And DTO är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Entity With Service Impl And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

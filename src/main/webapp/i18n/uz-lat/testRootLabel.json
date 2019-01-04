@@ -1,0 +1,22 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "testRootLabel": {
+            "home": {
+                "title": "Labels",
+                "createLabel": "Yangi Label qo`shish",
+                "createOrEditLabel": "Labelni tahrirlash"
+            },
+            "created": "Label {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Label saqlandi",
+            "deleted": "{{ param }}- Label o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Labelni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Label"
+            },
+            "labelName": "Label Name",
+            "operation": "Operation"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "testRootLabel": {
+            "home": {
+                "title": "Labels",
+                "createLabel": "Criar um(a) novo(a) Label",
+                "createOrEditLabel": "Criar ou editar um(a) Label"
+            },
+            "created": "A new Label is created with identifier {{ param }}",
+            "updated": "A Label is updated with identifier {{ param }}",
+            "deleted": "A Label is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Label {{ id }}?"
+            },
+            "detail": {
+                "title": "Label"
+            },
+            "labelName": "Label Name",
+            "operation": "Operation"
+        }
+    }
+}

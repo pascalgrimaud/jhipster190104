@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Entity With Pagination erstellen",
+                "createOrEditLabel": "Entity With Pagination erstellen oder bearbeiten"
+            },
+            "created": "Entity With Pagination erstellt mit ID {{ param }}",
+            "updated": "Entity With Pagination aktualisiert mit ID {{ param }}",
+            "deleted": "Entity With Pagination gelöscht mit ID {{ param }}",
+            "delete": {
+                "question": "Soll Entity With Pagination {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl And DTOS",
+                "createLabel": "Creeare o nouă entitate Entity With Service Impl And DTO",
+                "createOrEditLabel": "Creeare sau editare Entity With Service Impl And DTO"
+            },
+            "created": "A fost creată o nouă entitate Entity With Service Impl And DTO cu identificatorul {{ param }}",
+            "updated": "Entity With Service Impl And DTO cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Service Impl And DTO cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Service Impl And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

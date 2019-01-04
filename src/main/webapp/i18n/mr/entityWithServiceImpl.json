@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "नवीन Entity With Service Impl तयार करा",
+                "createOrEditLabel": "Entity With Service Impl तयार किंवा संपादित करा"
+            },
+            "created": "Entity With Service Impl [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With Service Impl [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With Service Impl [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With Service Impl [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

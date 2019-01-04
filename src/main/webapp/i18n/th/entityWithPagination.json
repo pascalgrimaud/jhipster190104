@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "สร้าง Entity With Pagination",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With Pagination"
+            },
+            "created": "Entity With Pagination ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With Pagination ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With Pagination ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl And DTOS",
+                "createLabel": "Pridať Entity With Service Impl And DTO",
+                "createOrEditLabel": "Pridať alebo upraviť Entity With Service Impl And DTO"
+            },
+            "created": "Bol vytvorený potomok entity Entity With Service Impl And DTO s identifikátorom {{ param }}",
+            "updated": "Potomok entity Entity With Service Impl And DTO s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Entity With Service Impl And DTO s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Entity With Service Impl And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

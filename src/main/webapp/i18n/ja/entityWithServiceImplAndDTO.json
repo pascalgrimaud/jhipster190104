@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "EntityWithServiceImplAndDTOS",
+                "createLabel": "Entity With Service Impl And DTO を追加",
+                "createOrEditLabel": "Entity With Service Impl And DTOを追加または編集"
+            },
+            "created": "A new Entity With Service Impl And DTO is created with identifier {{ param }}",
+            "updated": "A Entity With Service Impl And DTO is updated with identifier {{ param }}",
+            "deleted": "A Entity With Service Impl And DTO is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Entity With Service Impl And DTO {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

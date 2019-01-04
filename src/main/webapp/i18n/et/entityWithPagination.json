@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Lisa uus Entity With Pagination",
+                "createOrEditLabel": "Lisa või muuda Entity With Pagination"
+            },
+            "created": "Uus Entity With Pagination on loodud identifikaatoriga {{ param }}",
+            "updated": "Entity With Pagination identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Entity With Pagination identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

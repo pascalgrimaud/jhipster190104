@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Buat Entity With DTO baru",
+                "createOrEditLabel": "Buat atau edit Entity With DTO"
+            },
+            "created": "Entity With DTO dengan id {{ param }} telah dibuat",
+            "updated": "Entity With DTO dengan id {{ param }} telah diperbaharui",
+            "deleted": "Entity With DTO dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

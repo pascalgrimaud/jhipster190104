@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Стварыць новы Entity With DTO",
+                "createOrEditLabel": "Стварыць або адрэдагаваць Entity With DTO"
+            },
+            "created": "Новы Entity With DTO створан з ідэнтыфікатарам {{ param }}",
+            "updated": "Entity With DTO абноўлен з ідэнтыфікатарам {{ param }}",
+            "deleted": "Entity With DTO выдален з ідэнтыфікатарам {{ param }}",
+            "delete": {
+                "question": "Вы ўпэўнены, што жадаеце выдаліць Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

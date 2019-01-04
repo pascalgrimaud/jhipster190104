@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "EntityWithServiceClasses",
+                "createLabel": "Entity With Service Class を追加",
+                "createOrEditLabel": "Entity With Service Classを追加または編集"
+            },
+            "created": "A new Entity With Service Class is created with identifier {{ param }}",
+            "updated": "A Entity With Service Class is updated with identifier {{ param }}",
+            "deleted": "A Entity With Service Class is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Entity With Service Class {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Service Class Pagination And DTOS",
+                "createLabel": "Entity With Service Class Pagination And DTO-ஐ உருவாக்கு",
+                "createOrEditLabel": "Entity With Service Class Pagination And DTO -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Entity With Service Class Pagination And DTO புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Entity With Service Class Pagination And DTO மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Entity With Service Class Pagination And DTO நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Entity With Service Class Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class Pagination And DTO"
+            },
+            "lena": "Lena"
+        }
+    }
+}

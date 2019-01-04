@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Creeare o nouă entitate Entity With Pagination",
+                "createOrEditLabel": "Creeare sau editare Entity With Pagination"
+            },
+            "created": "A fost creată o nouă entitate Entity With Pagination cu identificatorul {{ param }}",
+            "updated": "Entity With Pagination cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Pagination cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

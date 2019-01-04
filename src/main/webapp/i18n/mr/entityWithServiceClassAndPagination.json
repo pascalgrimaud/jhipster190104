@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndPagination": {
+            "home": {
+                "title": "Entity With Service Class And Paginations",
+                "createLabel": "नवीन Entity With Service Class And Pagination तयार करा",
+                "createOrEditLabel": "Entity With Service Class And Pagination तयार किंवा संपादित करा"
+            },
+            "created": "Entity With Service Class And Pagination [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With Service Class And Pagination [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With Service Class And Pagination [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With Service Class And Pagination [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And Pagination"
+            },
+            "enzo": "Enzo"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "fieldTestServiceClassEntity": {
+            "home": {
+                "title": "Field Test Service Class Entities",
+                "createLabel": "Field Test Service Class Entity-ஐ உருவாக்கு",
+                "createOrEditLabel": "Field Test Service Class Entity -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Field Test Service Class Entity புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Field Test Service Class Entity மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Field Test Service Class Entity நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Field Test Service Class Entity {{ id }}?"
+            },
+            "detail": {
+                "title": "Field Test Service Class Entity"
+            },
+            "stringBob": "String Bob",
+            "stringRequiredBob": "String Required Bob",
+            "stringMinlengthBob": "String Minlength Bob",
+            "stringMaxlengthBob": "String Maxlength Bob",
+            "stringPatternBob": "String Pattern Bob",
+            "integerBob": "Integer Bob",
+            "integerRequiredBob": "Integer Required Bob",
+            "integerMinBob": "Integer Min Bob",
+            "integerMaxBob": "Integer Max Bob",
+            "longBob": "Long Bob",
+            "longRequiredBob": "Long Required Bob",
+            "longMinBob": "Long Min Bob",
+            "longMaxBob": "Long Max Bob",
+            "floatBob": "Float Bob",
+            "floatRequiredBob": "Float Required Bob",
+            "floatMinBob": "Float Min Bob",
+            "floatMaxBob": "Float Max Bob",
+            "doubleRequiredBob": "Double Required Bob",
+            "doubleMinBob": "Double Min Bob",
+            "doubleMaxBob": "Double Max Bob",
+            "bigDecimalRequiredBob": "Big Decimal Required Bob",
+            "bigDecimalMinBob": "Big Decimal Min Bob",
+            "bigDecimalMaxBob": "Big Decimal Max Bob",
+            "localDateBob": "Local Date Bob",
+            "localDateRequiredBob": "Local Date Required Bob",
+            "instantBob": "Instant Bob",
+            "instanteRequiredBob": "Instante Required Bob",
+            "zonedDateTimeBob": "Zoned Date Time Bob",
+            "zonedDateTimeRequiredBob": "Zoned Date Time Required Bob",
+            "booleanBob": "Boolean Bob",
+            "booleanRequiredBob": "Boolean Required Bob",
+            "enumBob": "Enum Bob",
+            "enumRequiredBob": "Enum Required Bob",
+            "byteImageBob": "Byte Image Bob",
+            "byteImageRequiredBob": "Byte Image Required Bob",
+            "byteImageMinbytesBob": "Byte Image Minbytes Bob",
+            "byteImageMaxbytesBob": "Byte Image Maxbytes Bob",
+            "byteAnyBob": "Byte Any Bob",
+            "byteAnyRequiredBob": "Byte Any Required Bob",
+            "byteAnyMinbytesBob": "Byte Any Minbytes Bob",
+            "byteAnyMaxbytesBob": "Byte Any Maxbytes Bob",
+            "byteTextBob": "Byte Text Bob",
+            "byteTextRequiredBob": "Byte Text Required Bob",
+            "byteTextMinbytesBob": "Byte Text Minbytes Bob",
+            "byteTextMaxbytesBob": "Byte Text Maxbytes Bob"
+        }
+    }
+}

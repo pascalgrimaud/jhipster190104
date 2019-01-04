@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "EntityWithServiceImpls",
+                "createLabel": "Egy új Entity With Service Impl létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Service Implt"
+            },
+            "created": "Egy új Entity With Service Impl lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Service Impl módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Service Impl törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Service Implt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

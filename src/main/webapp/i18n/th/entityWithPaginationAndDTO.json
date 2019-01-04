@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "สร้าง Entity With Pagination And DTO",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With Pagination And DTO"
+            },
+            "created": "Entity With Pagination And DTO ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With Pagination And DTO ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With Pagination And DTO ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

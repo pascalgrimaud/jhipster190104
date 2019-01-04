@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Skapa en ny Entity With DTO",
+                "createOrEditLabel": "Skapa eller ändra en Entity With DTO"
+            },
+            "created": "En ny Entity With DTO är skapad med id {{ param }}",
+            "updated": "En Entity With DTO är uppdaterad med id  {{ param }}",
+            "deleted": "En Entity With DTO är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "Entity With Service Impl And Paginations",
+                "createLabel": "Vytvořit Entity With Service Impl And Pagination",
+                "createOrEditLabel": "Vytvořit nebo upravit Entity With Service Impl And Pagination"
+            },
+            "created": "Byl vytvořen potomek entity Entity With Service Impl And Pagination s identifikátorem {{ param }}",
+            "updated": "Potomek entity Entity With Service Impl And Pagination s identifikátorem {{ param }} byl upravený.",
+            "deleted": "Potomek entity Entity With Service Impl And Pagination s identifikátorem {{ param }} bol smazaný.",
+            "delete": {
+                "question": "Jste si jisti, že chcete smazat Entity With Service Impl And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

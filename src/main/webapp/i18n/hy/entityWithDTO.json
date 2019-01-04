@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Ստեղծել նոր Entity With DTO",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Entity With DTO"
+            },
+            "created": "Նոր Entity With DTO ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Entity With DTO թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Entity With DTO հեռացված է {{ param }}  նունացուցիչով",
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

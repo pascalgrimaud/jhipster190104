@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "Entity With Service Classes",
+                "createLabel": "Создать новый Entity With Service Class",
+                "createOrEditLabel": "Создать или отредактировать Entity With Service Class"
+            },
+            "created": "Новый Entity With Service Class создан с идентификатором {{ param }}",
+            "updated": "Entity With Service Class обновлен с идентификатором {{ param }}",
+            "deleted": "Entity With Service Class удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить Entity With Service Class {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

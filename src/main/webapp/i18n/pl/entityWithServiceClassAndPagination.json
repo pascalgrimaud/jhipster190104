@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndPagination": {
+            "home": {
+                "title": "Entity With Service Class And Pagination",
+                "createLabel": "Dodaj Entity With Service Class And Pagination",
+                "createOrEditLabel": "Dodaj lub edytuj: Entity With Service Class And Pagination"
+            },
+            "created": "Utworzono nowy obiekt typu Entity With Service Class And Pagination z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono obiekt typu Entity With Service Class And Pagination z identyfikatorem {{ param }}",
+            "deleted": "Usunięto obiekt typu Entity With Service Class And Pagination z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Entity With Service Class And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And Pagination"
+            },
+            "enzo": "Enzo"
+        }
+    }
+}

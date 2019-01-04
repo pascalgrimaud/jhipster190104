@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "Entity With Service Classes",
+                "createLabel": "Pridať Entity With Service Class",
+                "createOrEditLabel": "Pridať alebo upraviť Entity With Service Class"
+            },
+            "created": "Bol vytvorený potomok entity Entity With Service Class s identifikátorom {{ param }}",
+            "updated": "Potomok entity Entity With Service Class s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Entity With Service Class s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Entity With Service Class {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

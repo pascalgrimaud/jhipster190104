@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Thêm mới một Entity With DTO",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Entity With DTO"
+            },
+            "created": "Một Entity With DTO mới được tạo với định danh {{ param }}",
+            "updated": "Một Entity With DTO cập nhật với định danh {{ param }}",
+            "deleted": "Một Entity With DTO đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

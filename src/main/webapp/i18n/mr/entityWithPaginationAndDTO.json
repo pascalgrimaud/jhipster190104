@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "नवीन Entity With Pagination And DTO तयार करा",
+                "createOrEditLabel": "Entity With Pagination And DTO तयार किंवा संपादित करा"
+            },
+            "created": "Entity With Pagination And DTO [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With Pagination And DTO [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With Pagination And DTO [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With Pagination And DTO [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

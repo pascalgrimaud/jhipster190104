@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Entity With Pagination-ஐ உருவாக்கு",
+                "createOrEditLabel": "Entity With Pagination -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Entity With Pagination புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Entity With Pagination மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Entity With Pagination நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

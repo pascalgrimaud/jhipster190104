@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Vytvořit Entity With Pagination And DTO",
+                "createOrEditLabel": "Vytvořit nebo upravit Entity With Pagination And DTO"
+            },
+            "created": "Byl vytvořen potomek entity Entity With Pagination And DTO s identifikátorem {{ param }}",
+            "updated": "Potomek entity Entity With Pagination And DTO s identifikátorem {{ param }} byl upravený.",
+            "deleted": "Potomek entity Entity With Pagination And DTO s identifikátorem {{ param }} bol smazaný.",
+            "delete": {
+                "question": "Jste si jisti, že chcete smazat Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

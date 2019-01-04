@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "创建新 Entity With Service Impl",
+                "createOrEditLabel": "创建或编辑 Entity With Service Impl"
+            },
+            "created": "Entity With Service Impl {{ param }} 创建成功",
+            "updated": "Entity With Service Impl {{ param }} 更新成功",
+            "deleted": "Entity With Service Impl {{ param }} 删除成功",
+            "delete": {
+                "question": "你确定要删除 Entity With Service Impl {{ id }} 吗？"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Vytvořit Entity With Pagination",
+                "createOrEditLabel": "Vytvořit nebo upravit Entity With Pagination"
+            },
+            "created": "Byl vytvořen potomek entity Entity With Pagination s identifikátorem {{ param }}",
+            "updated": "Potomek entity Entity With Pagination s identifikátorem {{ param }} byl upravený.",
+            "deleted": "Potomek entity Entity With Pagination s identifikátorem {{ param }} bol smazaný.",
+            "delete": {
+                "question": "Jste si jisti, že chcete smazat Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

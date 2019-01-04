@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Kreiraj novi Entity With Service Impl",
+                "createOrEditLabel": "Kreirajte ili izmenite Entity With Service Impl"
+            },
+            "created": "Kreiran je novi Entity With Service Impl pod nazivom {{ param }}",
+            "updated": "Entity With Service Impl pod nazivom {{ param }} je ažuriran",
+            "deleted": "Entity With Service Impl pod nazivom {{ param }} je obrisan",
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Entity With Service Impl pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

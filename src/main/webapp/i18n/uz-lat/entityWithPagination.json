@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Yangi Entity With Pagination qo`shish",
+                "createOrEditLabel": "Entity With Paginationni tahrirlash"
+            },
+            "created": "Entity With Pagination {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Pagination saqlandi",
+            "deleted": "{{ param }}- Entity With Pagination o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Paginationni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

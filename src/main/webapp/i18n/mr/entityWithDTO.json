@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "नवीन Entity With DTO तयार करा",
+                "createOrEditLabel": "Entity With DTO तयार किंवा संपादित करा"
+            },
+            "created": "Entity With DTO [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With DTO [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With DTO [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With DTO [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

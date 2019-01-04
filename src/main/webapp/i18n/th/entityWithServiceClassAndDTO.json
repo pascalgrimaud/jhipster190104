@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "สร้าง Entity With Service Class And DTO",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With Service Class And DTO"
+            },
+            "created": "Entity With Service Class And DTO ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With Service Class And DTO ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With Service Class And DTO ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With Service Class And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

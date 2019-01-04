@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "EntityWithDTOS",
+                "createLabel": "Egy új Entity With DTO létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With DTOt"
+            },
+            "created": "Egy új Entity With DTO lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With DTO módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With DTO törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With DTOt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

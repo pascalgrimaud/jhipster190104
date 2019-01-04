@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl And DTOS",
+                "createLabel": "Entity With Service Impl And DTO erstellen",
+                "createOrEditLabel": "Entity With Service Impl And DTO erstellen oder bearbeiten"
+            },
+            "created": "Entity With Service Impl And DTO erstellt mit ID {{ param }}",
+            "updated": "Entity With Service Impl And DTO aktualisiert mit ID {{ param }}",
+            "deleted": "Entity With Service Impl And DTO gelöscht mit ID {{ param }}",
+            "delete": {
+                "question": "Soll Entity With Service Impl And DTO {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

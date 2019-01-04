@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplPaginationAndDTO": {
+            "home": {
+                "title": "EntityWithServiceImplPaginationAndDTOS",
+                "createLabel": "Egy új Entity With Service Impl Pagination And DTO létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Service Impl Pagination And DTOt"
+            },
+            "created": "Egy új Entity With Service Impl Pagination And DTO lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Service Impl Pagination And DTO módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Service Impl Pagination And DTO törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Service Impl Pagination And DTOt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl Pagination And DTO"
+            },
+            "theo": "Theo"
+        }
+    }
+}

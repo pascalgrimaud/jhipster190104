@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTO",
+                "createLabel": "Dodaj Entity With DTO",
+                "createOrEditLabel": "Dodaj lub edytuj: Entity With DTO"
+            },
+            "created": "Utworzono nowy obiekt typu Entity With DTO z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono obiekt typu Entity With DTO z identyfikatorem {{ param }}",
+            "deleted": "Usunięto obiekt typu Entity With DTO z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

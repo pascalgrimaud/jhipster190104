@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "Entity With Service Classes",
+                "createLabel": "Yangi Entity With Service Class qo`shish",
+                "createOrEditLabel": "Entity With Service Classni tahrirlash"
+            },
+            "created": "Entity With Service Class {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Service Class saqlandi",
+            "deleted": "{{ param }}- Entity With Service Class o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Service Classni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

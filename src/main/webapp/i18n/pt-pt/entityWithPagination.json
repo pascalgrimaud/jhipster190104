@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Criar um(a) novo(a) Entity With Pagination",
+                "createOrEditLabel": "Criar ou editar um(a) Entity With Pagination"
+            },
+            "created": "A new Entity With Pagination is created with identifier {{ param }}",
+            "updated": "A Entity With Pagination is updated with identifier {{ param }}",
+            "deleted": "A Entity With Pagination is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

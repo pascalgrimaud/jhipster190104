@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "EntityWithServiceImplAndPaginations",
+                "createLabel": "Egy új Entity With Service Impl And Pagination létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Service Impl And Paginationt"
+            },
+            "created": "Egy új Entity With Service Impl And Pagination lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Service Impl And Pagination módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Service Impl And Pagination törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Service Impl And Paginationt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

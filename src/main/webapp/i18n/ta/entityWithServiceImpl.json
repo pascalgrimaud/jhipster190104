@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Entity With Service Impl-ஐ உருவாக்கு",
+                "createOrEditLabel": "Entity With Service Impl -ஐ மாற்று (அ) உருவாக்கு"
+            },
+            "created": "Entity With Service Impl புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Entity With Service Impl மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Entity With Service Impl நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Entity With Service Impl {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

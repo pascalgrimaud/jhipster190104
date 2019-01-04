@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "EntityWithServiceImplAndDTOS",
+                "createLabel": "Egy új Entity With Service Impl And DTO létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Service Impl And DTOt"
+            },
+            "created": "Egy új Entity With Service Impl And DTO lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Service Impl And DTO módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Service Impl And DTO törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Service Impl And DTOt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

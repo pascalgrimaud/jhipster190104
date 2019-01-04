@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Стварыць новы Entity With Pagination",
+                "createOrEditLabel": "Стварыць або адрэдагаваць Entity With Pagination"
+            },
+            "created": "Новы Entity With Pagination створан з ідэнтыфікатарам {{ param }}",
+            "updated": "Entity With Pagination абноўлен з ідэнтыфікатарам {{ param }}",
+            "deleted": "Entity With Pagination выдален з ідэнтыфікатарам {{ param }}",
+            "delete": {
+                "question": "Вы ўпэўнены, што жадаеце выдаліць Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

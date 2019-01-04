@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Pridať Entity With DTO",
+                "createOrEditLabel": "Pridať alebo upraviť Entity With DTO"
+            },
+            "created": "Bol vytvorený potomok entity Entity With DTO s identifikátorom {{ param }}",
+            "updated": "Potomok entity Entity With DTO s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Entity With DTO s identifikátorom {{ param }} bol vymazaný.",
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndPagination": {
+            "home": {
+                "title": "Entity With Service Class And Paginations",
+                "createLabel": "Creeare o nouă entitate Entity With Service Class And Pagination",
+                "createOrEditLabel": "Creeare sau editare Entity With Service Class And Pagination"
+            },
+            "created": "A fost creată o nouă entitate Entity With Service Class And Pagination cu identificatorul {{ param }}",
+            "updated": "Entity With Service Class And Pagination cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Service Class And Pagination cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Service Class And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And Pagination"
+            },
+            "enzo": "Enzo"
+        }
+    }
+}

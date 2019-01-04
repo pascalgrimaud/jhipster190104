@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Skapa en ny Entity With Pagination And DTO",
+                "createOrEditLabel": "Skapa eller ändra en Entity With Pagination And DTO"
+            },
+            "created": "En ny Entity With Pagination And DTO är skapad med id {{ param }}",
+            "updated": "En Entity With Pagination And DTO är uppdaterad med id  {{ param }}",
+            "deleted": "En Entity With Pagination And DTO är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Yangi Entity With Service Impl qo`shish",
+                "createOrEditLabel": "Entity With Service Implni tahrirlash"
+            },
+            "created": "Entity With Service Impl {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Service Impl saqlandi",
+            "deleted": "{{ param }}- Entity With Service Impl o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Service Implni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

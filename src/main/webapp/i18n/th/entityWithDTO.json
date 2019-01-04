@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "สร้าง Entity With DTO",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With DTO"
+            },
+            "created": "Entity With DTO ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With DTO ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With DTO ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

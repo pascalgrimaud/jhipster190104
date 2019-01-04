@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "Lisa uus Entity With Service Class And DTO",
+                "createOrEditLabel": "Lisa või muuda Entity With Service Class And DTO"
+            },
+            "created": "Uus Entity With Service Class And DTO on loodud identifikaatoriga {{ param }}",
+            "updated": "Entity With Service Class And DTO identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Entity With Service Class And DTO identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Entity With Service Class And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

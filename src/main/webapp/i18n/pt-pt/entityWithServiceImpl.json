@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Criar um(a) novo(a) Entity With Service Impl",
+                "createOrEditLabel": "Criar ou editar um(a) Entity With Service Impl"
+            },
+            "created": "A new Entity With Service Impl is created with identifier {{ param }}",
+            "updated": "A Entity With Service Impl is updated with identifier {{ param }}",
+            "deleted": "A Entity With Service Impl is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Entity With Service Impl {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

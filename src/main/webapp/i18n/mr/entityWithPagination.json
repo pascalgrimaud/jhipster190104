@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "नवीन Entity With Pagination तयार करा",
+                "createOrEditLabel": "Entity With Pagination तयार किंवा संपादित करा"
+            },
+            "created": "Entity With Pagination [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With Pagination [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With Pagination [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With Pagination [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

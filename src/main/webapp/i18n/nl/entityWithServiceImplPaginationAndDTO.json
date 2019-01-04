@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl Pagination And DTOS",
+                "createLabel": "Maak een nieuwe Entity With Service Impl Pagination And DTO",
+                "createOrEditLabel": "Maak of wijzig een Entity With Service Impl Pagination And DTO"
+            },
+            "created": "A new Entity With Service Impl Pagination And DTO is created with identifier {{ param }}",
+            "updated": "A Entity With Service Impl Pagination And DTO is updated with identifier {{ param }}",
+            "deleted": "A Entity With Service Impl Pagination And DTO is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Bent u zeker dat u Entity With Service Impl Pagination And DTO {{ id }} wilt verwijderen?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl Pagination And DTO"
+            },
+            "theo": "Theo"
+        }
+    }
+}

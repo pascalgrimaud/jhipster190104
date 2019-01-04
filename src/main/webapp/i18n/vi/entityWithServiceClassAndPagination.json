@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndPagination": {
+            "home": {
+                "title": "Entity With Service Class And Paginations",
+                "createLabel": "Thêm mới một Entity With Service Class And Pagination",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Entity With Service Class And Pagination"
+            },
+            "created": "Một Entity With Service Class And Pagination mới được tạo với định danh {{ param }}",
+            "updated": "Một Entity With Service Class And Pagination cập nhật với định danh {{ param }}",
+            "deleted": "Một Entity With Service Class And Pagination đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Entity With Service Class And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And Pagination"
+            },
+            "enzo": "Enzo"
+        }
+    }
+}

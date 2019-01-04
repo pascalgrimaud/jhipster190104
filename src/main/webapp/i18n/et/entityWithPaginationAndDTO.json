@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Lisa uus Entity With Pagination And DTO",
+                "createOrEditLabel": "Lisa või muuda Entity With Pagination And DTO"
+            },
+            "created": "Uus Entity With Pagination And DTO on loodud identifikaatoriga {{ param }}",
+            "updated": "Entity With Pagination And DTO identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Entity With Pagination And DTO identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

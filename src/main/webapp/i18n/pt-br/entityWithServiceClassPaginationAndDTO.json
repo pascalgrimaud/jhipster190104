@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Service Class Pagination And DTOS",
+                "createLabel": "Criar novo Entity With Service Class Pagination And DTO",
+                "createOrEditLabel": "Criar ou editar Entity With Service Class Pagination And DTO"
+            },
+            "created": "Um novo Entity With Service Class Pagination And DTO foi criado com o identificador {{ param }}",
+            "updated": "Um Entity With Service Class Pagination And DTO foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Entity With Service Class Pagination And DTO foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Entity With Service Class Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class Pagination And DTO"
+            },
+            "lena": "Lena"
+        }
+    }
+}

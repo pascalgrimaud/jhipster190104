@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Yangi Entity With Pagination And DTO qo`shish",
+                "createOrEditLabel": "Entity With Pagination And DTOni tahrirlash"
+            },
+            "created": "Entity With Pagination And DTO {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Pagination And DTO saqlandi",
+            "deleted": "{{ param }}- Entity With Pagination And DTO o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Pagination And DTOni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

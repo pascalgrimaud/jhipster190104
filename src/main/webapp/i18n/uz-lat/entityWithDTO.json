@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Yangi Entity With DTO qo`shish",
+                "createOrEditLabel": "Entity With DTOni tahrirlash"
+            },
+            "created": "Entity With DTO {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With DTO saqlandi",
+            "deleted": "{{ param }}- Entity With DTO o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With DTOni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

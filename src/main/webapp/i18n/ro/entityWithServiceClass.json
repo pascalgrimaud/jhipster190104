@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "Entity With Service Classes",
+                "createLabel": "Creeare o nouă entitate Entity With Service Class",
+                "createOrEditLabel": "Creeare sau editare Entity With Service Class"
+            },
+            "created": "A fost creată o nouă entitate Entity With Service Class cu identificatorul {{ param }}",
+            "updated": "Entity With Service Class cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Service Class cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Service Class {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl And DTOS",
+                "createLabel": "Δημιουργήστε ένα νέο Entity With Service Impl And DTO",
+                "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Entity With Service Impl And DTO"
+            },
+            "created": "Ένα νέο Entity With Service Impl And DTO έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+            "updated": "Ένα Entity With Service Impl And DTO έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+            "deleted": "Ένα Entity With Service Impl And DTO έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+            "delete": {
+                "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Entity With Service Impl And DTO {{ id }};"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And DTO"
+            },
+            "louis": "Louis"
+        }
+    }
+}

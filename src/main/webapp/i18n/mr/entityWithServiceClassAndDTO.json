@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "नवीन Entity With Service Class And DTO तयार करा",
+                "createOrEditLabel": "Entity With Service Class And DTO तयार किंवा संपादित करा"
+            },
+            "created": "Entity With Service Class And DTO [identifier: {{ param }}] तयार आहे",
+            "updated": "Entity With Service Class And DTO [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Entity With Service Class And DTO [identifier: {{ param }}] हटविले आहे",
+            "delete": {
+                "question": "Entity With Service Class And DTO [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

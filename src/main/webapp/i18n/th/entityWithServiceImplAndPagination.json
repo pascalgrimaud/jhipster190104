@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "Entity With Service Impl And Paginations",
+                "createLabel": "สร้าง Entity With Service Impl And Pagination",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With Service Impl And Pagination"
+            },
+            "created": "Entity With Service Impl And Pagination ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With Service Impl And Pagination ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With Service Impl And Pagination ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With Service Impl And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

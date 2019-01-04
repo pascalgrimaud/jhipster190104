@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "Создать новый Entity With Service Class And DTO",
+                "createOrEditLabel": "Создать или отредактировать Entity With Service Class And DTO"
+            },
+            "created": "Новый Entity With Service Class And DTO создан с идентификатором {{ param }}",
+            "updated": "Entity With Service Class And DTO обновлен с идентификатором {{ param }}",
+            "deleted": "Entity With Service Class And DTO удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить Entity With Service Class And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

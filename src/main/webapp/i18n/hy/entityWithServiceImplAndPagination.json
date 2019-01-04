@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "Entity With Service Impl And Paginations",
+                "createLabel": "Ստեղծել նոր Entity With Service Impl And Pagination",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Entity With Service Impl And Pagination"
+            },
+            "created": "Նոր Entity With Service Impl And Pagination ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Entity With Service Impl And Pagination թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Entity With Service Impl And Pagination հեռացված է {{ param }}  նունացուցիչով",
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Entity With Service Impl And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

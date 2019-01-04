@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Buat Entity With Pagination baru",
+                "createOrEditLabel": "Buat atau edit Entity With Pagination"
+            },
+            "created": "Entity With Pagination dengan id {{ param }} telah dibuat",
+            "updated": "Entity With Pagination dengan id {{ param }} telah diperbaharui",
+            "deleted": "Entity With Pagination dengan id {{ param }} telah dihapus",
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

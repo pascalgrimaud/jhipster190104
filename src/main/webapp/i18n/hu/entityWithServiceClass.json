@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "EntityWithServiceClasses",
+                "createLabel": "Egy új Entity With Service Class létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Service Classt"
+            },
+            "created": "Egy új Entity With Service Class lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Service Class módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Service Class törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Service Classt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

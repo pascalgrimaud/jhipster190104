@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Thêm mới một Entity With Pagination And DTO",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Entity With Pagination And DTO"
+            },
+            "created": "Một Entity With Pagination And DTO mới được tạo với định danh {{ param }}",
+            "updated": "Một Entity With Pagination And DTO cập nhật với định danh {{ param }}",
+            "deleted": "Một Entity With Pagination And DTO đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

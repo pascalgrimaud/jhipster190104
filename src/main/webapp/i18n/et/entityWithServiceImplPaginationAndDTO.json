@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Service Impl Pagination And DTOS",
+                "createLabel": "Lisa uus Entity With Service Impl Pagination And DTO",
+                "createOrEditLabel": "Lisa või muuda Entity With Service Impl Pagination And DTO"
+            },
+            "created": "Uus Entity With Service Impl Pagination And DTO on loodud identifikaatoriga {{ param }}",
+            "updated": "Entity With Service Impl Pagination And DTO identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Entity With Service Impl Pagination And DTO identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Entity With Service Impl Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl Pagination And DTO"
+            },
+            "theo": "Theo"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Vytvořit Entity With Service Impl",
+                "createOrEditLabel": "Vytvořit nebo upravit Entity With Service Impl"
+            },
+            "created": "Byl vytvořen potomek entity Entity With Service Impl s identifikátorem {{ param }}",
+            "updated": "Potomek entity Entity With Service Impl s identifikátorem {{ param }} byl upravený.",
+            "deleted": "Potomek entity Entity With Service Impl s identifikátorem {{ param }} bol smazaný.",
+            "delete": {
+                "question": "Jste si jisti, že chcete smazat Entity With Service Impl {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

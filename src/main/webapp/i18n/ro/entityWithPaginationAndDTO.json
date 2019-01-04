@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Creeare o nouă entitate Entity With Pagination And DTO",
+                "createOrEditLabel": "Creeare sau editare Entity With Pagination And DTO"
+            },
+            "created": "A fost creată o nouă entitate Entity With Pagination And DTO cu identificatorul {{ param }}",
+            "updated": "Entity With Pagination And DTO cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entity With Pagination And DTO cu identificatorul {{ param }} a fost ștearsă",
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

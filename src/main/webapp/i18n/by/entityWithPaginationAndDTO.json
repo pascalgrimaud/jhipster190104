@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "Entity With Pagination And DTOS",
+                "createLabel": "Стварыць новы Entity With Pagination And DTO",
+                "createOrEditLabel": "Стварыць або адрэдагаваць Entity With Pagination And DTO"
+            },
+            "created": "Новы Entity With Pagination And DTO створан з ідэнтыфікатарам {{ param }}",
+            "updated": "Entity With Pagination And DTO абноўлен з ідэнтыфікатарам {{ param }}",
+            "deleted": "Entity With Pagination And DTO выдален з ідэнтыфікатарам {{ param }}",
+            "delete": {
+                "question": "Вы ўпэўнены, што жадаеце выдаліць Entity With Pagination And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

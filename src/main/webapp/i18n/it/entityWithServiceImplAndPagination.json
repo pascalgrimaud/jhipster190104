@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "EntityWithServiceImplAndPaginations",
+                "createLabel": "Genera un nuovo Entity With Service Impl And Pagination",
+                "createOrEditLabel": "Genera o modifica un Entity With Service Impl And Pagination"
+            },
+            "created": "&Egrave; stato generato un nuovo Entity With Service Impl And Pagination con identificatore {{ param }}",
+            "updated": "&Egrave; stato aggiornato Entity With Service Impl And Pagination identificato da {{ param }}",
+            "deleted": "&Egrave; stato eliminato Entity With Service Impl And Pagination con identificatore {{ param }}",
+            "delete": {
+                "question": "Sei sicuro di volere eliminare Entity With Service Impl And Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

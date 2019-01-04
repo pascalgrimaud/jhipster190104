@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImplAndPagination": {
+            "home": {
+                "title": "Entity With Service Impl And Paginations",
+                "createLabel": "Yangi Entity With Service Impl And Pagination qo`shish",
+                "createOrEditLabel": "Entity With Service Impl And Paginationni tahrirlash"
+            },
+            "created": "Entity With Service Impl And Pagination {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Service Impl And Pagination saqlandi",
+            "deleted": "{{ param }}- Entity With Service Impl And Pagination o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Service Impl And Paginationni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Service Impl And Pagination"
+            },
+            "hugo": "Hugo"
+        }
+    }
+}

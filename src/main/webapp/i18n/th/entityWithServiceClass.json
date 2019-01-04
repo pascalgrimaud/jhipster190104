@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClass": {
+            "home": {
+                "title": "Entity With Service Classes",
+                "createLabel": "สร้าง Entity With Service Class",
+                "createOrEditLabel": "สร้างหรือแก้ไข Entity With Service Class"
+            },
+            "created": "Entity With Service Class ถูกสร้างด้วย {{ param }}",
+            "updated": "Entity With Service Class ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Entity With Service Class ถูกลบด้วย {{ param }}",
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Entity With Service Class {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class"
+            },
+            "zoe": "Zoe"
+        }
+    }
+}

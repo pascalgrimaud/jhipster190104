@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "Yangi Entity With Service Class And DTO qo`shish",
+                "createOrEditLabel": "Entity With Service Class And DTOni tahrirlash"
+            },
+            "created": "Entity With Service Class And DTO {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Entity With Service Class And DTO saqlandi",
+            "deleted": "{{ param }}- Entity With Service Class And DTO o`chirildi",
+            "delete": {
+                "question": "{{ id }}- Entity With Service Class And DTOni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}

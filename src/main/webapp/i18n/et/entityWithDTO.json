@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithDTO": {
+            "home": {
+                "title": "Entity With DTOS",
+                "createLabel": "Lisa uus Entity With DTO",
+                "createOrEditLabel": "Lisa või muuda Entity With DTO"
+            },
+            "created": "Uus Entity With DTO on loodud identifikaatoriga {{ param }}",
+            "updated": "Entity With DTO identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Entity With DTO identifikaatoriga {{ param }} on kustutatud",
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Entity With DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With DTO"
+            },
+            "emma": "Emma"
+        }
+    }
+}

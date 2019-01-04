@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPaginationAndDTO": {
+            "home": {
+                "title": "EntityWithPaginationAndDTOS",
+                "createLabel": "Egy új Entity With Pagination And DTO létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Entity With Pagination And DTOt"
+            },
+            "created": "Egy új Entity With Pagination And DTO lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Entity With Pagination And DTO módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Entity With Pagination And DTO törölve lett {{ param }} azonosítóval",
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Entity With Pagination And DTOt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Entity With Pagination And DTO"
+            },
+            "lea": "Lea"
+        }
+    }
+}

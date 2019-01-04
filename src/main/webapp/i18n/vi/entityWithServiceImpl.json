@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceImpl": {
+            "home": {
+                "title": "Entity With Service Impls",
+                "createLabel": "Thêm mới một Entity With Service Impl",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Entity With Service Impl"
+            },
+            "created": "Một Entity With Service Impl mới được tạo với định danh {{ param }}",
+            "updated": "Một Entity With Service Impl cập nhật với định danh {{ param }}",
+            "deleted": "Một Entity With Service Impl đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Entity With Service Impl {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Impl"
+            },
+            "clara": "Clara"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithPagination": {
+            "home": {
+                "title": "Entity With Paginations",
+                "createLabel": "Thêm mới một Entity With Pagination",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Entity With Pagination"
+            },
+            "created": "Một Entity With Pagination mới được tạo với định danh {{ param }}",
+            "updated": "Một Entity With Pagination cập nhật với định danh {{ param }}",
+            "deleted": "Một Entity With Pagination đã xóa với định danh {{ param }}",
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Entity With Pagination {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Pagination"
+            },
+            "nathan": "Nathan"
+        }
+    }
+}

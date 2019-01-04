@@ -1,0 +1,27 @@
+<div class="row justify-content-center">
+    <div class="col-8">
+        <div *ngIf="entityWithServiceClass">
+            <h2><span jhiTranslate="jhipsterSampleApplicationApp.entityWithServiceClass.detail.title">Entity With Service Class</span> {{entityWithServiceClass.id}}</h2>
+            <hr>
+            <my-prefix-alert-error></my-prefix-alert-error>
+            <dl class="row-md jh-entity-details">
+                <dt><span jhiTranslate="jhipsterSampleApplicationApp.entityWithServiceClass.zoe">Zoe</span></dt>
+                <dd>
+                    <span>{{entityWithServiceClass.zoe}}</span>
+                </dd>
+            </dl>
+
+            <button type="submit"
+                    (click)="previousState()"
+                    class="btn btn-info">
+                <fa-icon [icon]="'arrow-left'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+            </button>
+
+            <button type="button"
+                    [routerLink]="['/entity-with-service-class', entityWithServiceClass.id, 'edit']"
+                    class="btn btn-primary">
+                <fa-icon [icon]="'pencil-alt'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+            </button>
+        </div>
+    </div>
+</div>

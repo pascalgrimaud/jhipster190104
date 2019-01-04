@@ -1,0 +1,21 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "entityWithServiceClassAndDTO": {
+            "home": {
+                "title": "Entity With Service Class And DTOS",
+                "createLabel": "Skapa en ny Entity With Service Class And DTO",
+                "createOrEditLabel": "Skapa eller ändra en Entity With Service Class And DTO"
+            },
+            "created": "En ny Entity With Service Class And DTO är skapad med id {{ param }}",
+            "updated": "En Entity With Service Class And DTO är uppdaterad med id  {{ param }}",
+            "deleted": "En Entity With Service Class And DTO är borttagen med id  {{ param }}",
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Entity With Service Class And DTO {{ id }}?"
+            },
+            "detail": {
+                "title": "Entity With Service Class And DTO"
+            },
+            "lucas": "Lucas"
+        }
+    }
+}
